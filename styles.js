@@ -60,7 +60,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\n\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,iDAAiD,EAAE","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\n\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n\n\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,iDAAiD,EAAE","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n\n\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -490,8 +490,8 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/niteshnidarshan/git_repository_lti/lti_citi_app_project/lti-citi-app/frontend/lti-citi-app-ui/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
-module.exports = __webpack_require__(/*! /Users/niteshnidarshan/git_repository_lti/lti_citi_app_project/lti-citi-app/frontend/lti-citi-app-ui/src/styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/niteshnidarshan/git_repository_lti/lti-project/movieplex-angular-frontend/movieplex/node_modules/@angular/material/prebuilt-themes/indigo-pink.css */"./node_modules/@angular/material/prebuilt-themes/indigo-pink.css");
+module.exports = __webpack_require__(/*! /Users/niteshnidarshan/git_repository_lti/lti-project/movieplex-angular-frontend/movieplex/src/styles.css */"./src/styles.css");
 
 
 /***/ })
